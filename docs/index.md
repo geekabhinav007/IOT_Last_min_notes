@@ -1,7 +1,20 @@
 ### IOT Diagram
 
 ![1](/img/1.png)
+
+**Hyperconnectivity means ‘constant connectivity between devices, network, server and multiple systems**
+
+```Physical Object + Controller, Sensor and Actuators + Internet = Internet of Things```
+
+*Equation 1.1 conceptually describes the Internet of umbrellas as consisting of an umbrella, a controller, sensor and actuators, and the Internet for connectivity to a web service and a mobile service provider*
+
 ![1](/img/2.png)
+
+*Equation 1.2 is an IoT conceptual framework for the enterprise processes and services, based on a suggested IoT architecture given by Oracle*
+
+```Gather + Consolidate + Connect + Collect + Assemble + Manage and Analyze ```
+*Equation 1.3 represents a complex conceptual framework for IoT using cloud-platformbased processes and services.*
+
 ![1](/img/3.png)
 ![1](/img/4.png)
 ![1](/img/5.png)
