@@ -13,6 +13,7 @@
 *Equation 1.2 is an IoT conceptual framework for the enterprise processes and services, based on a suggested IoT architecture given by Oracle*
 
 ```Gather + Consolidate + Connect + Collect + Assemble + Manage and Analyze ```
+
 *Equation 1.3 represents a complex conceptual framework for IoT using cloud-platformbased processes and services.*
 
 ![1](/img/3.png)
